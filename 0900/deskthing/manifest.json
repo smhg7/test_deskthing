@@ -1,0 +1,23 @@
+{
+  "label": "Photo_thing",
+  "tags": [],
+  "requires": [
+    "0",
+    "9",
+    "0",
+    "0"
+  ],
+  "version": "0.11.4",
+  "requiredVersions": {
+    "server": ">=0.0.0",
+    "client": ""
+  },
+  "description": "display your photo album",
+  "author": "Unknown",
+  "platforms": [],
+  "repository": "",
+  "homepage": "",
+  "updateUrl": "",
+  "id": "0900",
+  "template": "full"
+}
